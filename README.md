@@ -78,4 +78,4 @@ Le programme :
 
 ## 📄 Licence
 
-Réutilisation libre.
+MIT License.
