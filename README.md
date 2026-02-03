@@ -4,7 +4,9 @@ ListeMaker est une application de gestion de listes en console écrite en Python
 Elle permet de créer, charger, modifier, sauvegarder et supprimer des listes personnalisées stockées sous forme de fichiers JSON.  
 Chaque liste est enregistrée dans `modules/data`, garantissant une organisation claire et une persistance automatique.
 
-## 🎯 Fonctionnalités principales
+---
+
+## Fonctionnalités principales
 
 - **Création / Chargement**
   - Chargement automatique si la liste existe déjà.
@@ -28,7 +30,9 @@ Chaque liste est enregistrée dans `modules/data`, garantissant une organisation
   - Mise en majuscules de chaque mot
   - Exemple : `liste a` → `ListeA`
 
-## 📁 Structure du projet
+---
+
+## Structure du projet
 
 ```
 ListeMaker/
@@ -39,12 +43,16 @@ ListeMaker/
     └── data/               # Stockage des fichiers JSON
 ```
 
-## 🚀 Installation
+---
+
+## Installation
 
 1. Installer Python 3.10+
 2. Aucun module externe n'est requis (seulement la librairie standard).
 
-## ▶️ Utilisation
+---
+
+## Utilisation
 
 Dans un terminal, exécutez simplement :
 
@@ -66,9 +74,7 @@ Le programme :
    6. Quitter
    ```
 
-## 🧑‍💻 Auteur
-
-Projet réalisé par IZEBATENE Yanis.  
+---
 
 ## 📄 Licence
 
